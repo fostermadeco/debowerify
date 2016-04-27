@@ -1,0 +1,10 @@
+
+{
+  "name": "test-package-d",
+  "main": [
+    "./unknownfile.js"
+  ],
+  "_source": "/Users/kelly/Sites/debowerify/test/fixtures/test-package-d",
+  "_target": "*",
+  "_originalSource": "./test/fixtures/test-package-d"
+}
