@@ -1,3 +1,6 @@
+# FORK of debowerify
+Includes support for bower overrides.
+
 # debowerify
 
 A browserify transform to enable the easy use of [bower](https://bower.io) components in browserify client javascript projects.
